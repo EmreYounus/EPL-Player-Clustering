@@ -18,7 +18,7 @@ Welcome to my EPL Player Clustering project. In this project, I use unsupervised
     - Assists per match  
     - Passes per match  
     - Tackles per match  
-  This helps to normalize the data regardless of how many matches a player has played.
+  This helps to normalise the data regardless of how many matches a player has played.
 
 - **Clustering Techniques:**  
   I experimented with two clustering methods:
